@@ -52,6 +52,19 @@ This project includes multiple independent apps/pages, each offering a unique in
 - **Tailwind CSS** for styling
 - **Vite** as the build tool
 - `react-icons` for icons
+
+---
+
+## Start backend: 
+-cd backend 
+-npm install 
+-npm start
+
+##Start client (React + Vite): 
+-cd frontend 
+-npm install 
+-npm run dev
+
 - Fully component-based architecture
 
 ---
