@@ -147,22 +147,20 @@ Each project is modular and accessible as its own page/component.
 
 1. **Clone the Repository:**
    **bash
-git clone https://github.com/AsifaSiraj/MINI-REACT-ZOO.git
-cd react-multi-apps
+- git clone https://github.com/AsifaSiraj/MINI-REACT-ZOO.git
+- cd react-multi-apps
 
 ## Start backend: 
--cd backend 
--npm install 
--npm start
+- cd backend 
+- npm install 
+- npm start
 
-##Start client (React + Vite): 
--cd frontend 
--npm install 
--npm run dev
+## Start client (React + Vite): 
+- cd frontend 
+- npm install 
+- npm run dev
 
 - Fully component-based architecture
 
----
 
-## 📁 Folder Structure
 
