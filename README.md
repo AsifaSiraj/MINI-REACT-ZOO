@@ -147,7 +147,7 @@ Each project is modular and accessible as its own page/component.
 
 1. **Clone the Repository:**
    **bash
-git clone https://github.com/your-username/react-multi-apps.git
+git clone https://github.com/AsifaSiraj/MINI-REACT-ZOO.git
 cd react-multi-apps
 
 ## Start backend: 
