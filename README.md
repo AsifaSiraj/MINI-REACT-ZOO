@@ -156,7 +156,6 @@ Each project is modular and accessible as its own page/component.
 - npm start
 
 ## Start client (React + Vite): 
-- cd frontend 
 - npm install 
 - npm run dev
 
